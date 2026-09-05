@@ -1,4 +1,4 @@
-# Awesome Synthetic Data [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/awesomelistsio/awesome)
+# Awesome Synthetic Data [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/brandonhimpfen/awesome-lists)
 
 [![DOI](https://zenodo.org/badge/1106325397.svg)](https://doi.org/10.5281/zenodo.19681618)  
 [![GitHub Sponsor](https://srv-cdn.himpfen.io/badges/github/github-flat.svg)](https://github.com/sponsors/brandonhimpfen) &nbsp; 
@@ -83,11 +83,11 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 
 ## Related Awesome Lists
 
-- [Awesome AI](https://github.com/awesomelistsio/awesome-ai)
-- [Awesome Machine Learning](https://github.com/awesomelistsio/awesome-machine-learning)
-- [Awesome AI Research Papers](https://github.com/awesomelistsio/awesome-ai-research-papers)
-- [Awesome AI Infrastructure](https://github.com/awesomelistsio/awesome-ai-infrastructure)
-- [Awesome Computer Vision](https://github.com/awesomelistsio/awesome-computer-vision)
+- [Awesome AI](https://github.com/brandonhimpfen/awesome-ai)
+- [Awesome Machine Learning](https://github.com/brandonhimpfen/awesome-machine-learning)
+- [Awesome AI Research Papers](https://github.com/brandonhimpfen/awesome-ai-research-papers)
+- [Awesome AI Infrastructure](https://github.com/brandonhimpfen/awesome-ai-infrastructure)
+- [Awesome Computer Vision](https://github.com/brandonhimpfen/awesome-computer-vision)
 
 ## Contribute
 
